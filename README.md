@@ -1,1 +1,1 @@
-Markdown file which contained an analysis for loan predictions from example open source dataset.
+An analysis for predicting loan defaults from an open-source dataset on Kaggle, source code, dataset, and project report included in repo.
